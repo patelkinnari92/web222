@@ -1,65 +1,62 @@
-# WEB222 – Web Programming Project
+# Fashion E-Commerce Website
 
-## About
-
-This project was developed as part of the **WEB222 – Web Programming Principles** course.
-
-The project focuses on building a responsive and user-friendly website using fundamental web development technologies.
-
-## Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript
-* Node.js
+A responsive **fashion e-commerce website** developed as a web programming project. The website provides a simple and organized online shopping experience with product categories, product information, navigation, and contact pages.
 
 ## Features
 
-* Responsive multi-page website
+* Responsive fashion e-commerce website
 * Product and category pages
-* Navigation between pages
+* Navigation menu for easy browsing
+* Product images and organized product information
 * Contact page
-* Interactive webpage elements
-* Organized and reusable styling
-* User-friendly layout and presentation
+* Interactive elements using JavaScript
+* Consistent and user-friendly page design
+* Responsive layout for different screen sizes
 
-## Project Structure
+## Technologies Used
 
-```text
-Web222-main/
-├── index.html
-├── pages/
-├── css/
-├── js/
-├── images/
-└── ...
-```
+* **HTML5** – Website structure
+* **CSS3** – Styling and responsive design
+* **JavaScript** – Interactive webpage functionality
+* **Node.js** – Backend/web development components
 
-> The exact folder structure may vary depending on the project files.
+## Website Pages
+
+* **Home** – Introduction to the fashion store
+* **Products** – Displays available fashion products
+* **Categories** – Organizes products by category
+* **Contact Us** – Provides contact information and a contact form
+* **Navigation** – Allows users to move between different sections of the website
 
 ## Getting Started
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/patelkinnari92/web222.git
 ```
 
-2. Open the project folder.
+### 2. Open the project
 
-3. Open `index.html` in a web browser.
+Open the project folder in **Visual Studio Code** or another code editor.
 
-For features that require Node.js, install the required dependencies and run the application using the project's Node.js configuration.
+### 3. Run the website
 
-## Purpose
+Open the main `index.html` file in a web browser.
 
-This project demonstrates practical experience with:
+If Node.js is required for any backend functionality, install the project dependencies and run the application using the provided Node.js configuration.
+
+## Project Purpose
+
+This project demonstrates practical experience in:
 
 * Front-end web development
 * Responsive web design
-* HTML, CSS, and JavaScript
-* Website navigation and organization
-* Basic server-side development with Node.js
+* HTML5 and CSS3
+* JavaScript
+* Website navigation and page organization
+* E-commerce website design
+* Basic Node.js development
 
 ## Author
 
